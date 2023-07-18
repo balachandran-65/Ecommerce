@@ -1,0 +1,39 @@
+.color_round{
+    margin-top:3px;
+ border-radius: 50%;
+width: 20px;
+height: 20px;
+padding: 10px;
+background-color:red;
+
+}   
+.dot {
+   
+   border-radius: 50%;
+   width: 20px;
+   height: 20px;
+   padding: 15px;
+   
+   border: 1px solid #000;
+
+   text-align: center;
+   font: 18px Arial, sans-serif;
+      }
+   .fill_color{
+    background-color:#34415e;
+   }   
+   .fill_color_2{
+    background-color: #5c4732;
+   }
+   .fill_color_3{
+    background-color: #8f8e89;
+
+   }
+   .fill_color,.fill_color_2,.fill_color_3{
+    border-radius: 50%;
+   width: 20px;
+   height: 20px;
+   padding: 18px;
+   
+
+   }

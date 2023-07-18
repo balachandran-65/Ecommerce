@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+            }
+            /* header section */
+            
+            .container{
+                margin-left:20px;
+                margin-right: 20px;
+                background-color: aliceblue;
+                height:50px; 
+              
+            }
+            
+           .header {
+            margin-top: 20px    ;
+            display:flex;
+            align-items: center;
+            justify-content: space-between;
+    
+           }
+           .inner_login_register{
+            display: flex;
+            margin-top: 10px;;
+            align-items: center;
+            background-color: rgb(12, 102, 102);
+           }
+           .logo,.title{
+            margin-top: 20px;
+           }
+    
+               
+            /* header section end */
